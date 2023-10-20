@@ -1,0 +1,222 @@
+.nav-link:hover{
+    text-decoration: underline;
+    color: #630d8e;
+}
+.tttt{
+    background: #ffffff;
+    width: 100%;
+    height: 439px;
+}
+.tttt img{
+    margin-left: 916px;
+    margin-top: 9px;
+}
+
+ #balu{
+    /* position: fixed; */
+    position: absolute;
+    top: 840px;
+    right: 25px;
+    z-index: 2;
+}
+
+
+.search-course{
+    margin: 0;
+    border: none;
+    font-family: inherit;
+    font-size: inherit;
+    margin-left: 902px;
+    line-height: inherit;
+}
+
+.row input{
+    border: none;
+    margin-left: 422px;
+    margin-top: 35px;
+}
+.col1 {
+    display: flex;
+    margin-left: 408px;
+    gap: 47px;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+
+
+.cardbody:hover {
+    box-shadow: 0px 0px 10px 0px #888888;
+    background-color: #630d8e;
+}
+
+
+.cardbody {
+    background-color: #f8f8f8;
+    width: 514px;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    overflow: hidden;
+    position: relative;
+}
+
+.card-image {
+    background-size: cover;
+    background-position: center;
+    width: 30%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.col {
+    text-align: left;
+    margin-left: 10px;
+}
+
+
+
+
+.round {
+    height: 150px;
+    width: 150px;
+    background: #ececec;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.headingg {
+    color: #6d1d8e;
+    font: 700 1.5rem "Barlow";
+    margin-top: 1rem;
+}
+.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+
+ul.list-luminr li {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAkCAMAAAA5HAOUAAAAZlBMVEUAAABsHI9tHY5uHo1wH45tHI5tHY5tHY9wII9sHI9tHY1sHY9vHI9tHY5tHY5tHY1tHI5tHY5sHo5tHY1tHY5uHI5sHY5uHY5tGo1rG4dtHY5tHY5tHI9tHI5uHY9rHoxtG41tHY6LmJQYAAAAIXRSTlMAQMCAEODwnyB/YFAv0Ilw9NrPurCTW7QdCfzn0cWqRTjIEMMwAAABIUlEQVQ4y9WT6W7DIBCEuYwBH/ERu0nvff+X7AC1UB0cqv5q9o/l1aedWRjYPyjTlBllNYn2PnPtKyJNVKs7EAczcrWAPB2K1eRLwpogqngWkhpEC7JycaowN0yD9tm3V8ACc0742p09SHQ8rEih6kswoH/KEgW7TgPwY+nZMtZ2JHeUX3GieFZyADeuTGaoNhpP6851huLUqbQNjS8A+wwlUgM/1x5rFynGFiiWKfkX6uLP+xezUE80pUaTp3oPTjydV95X+x4u0LB401LlKAeVV2CDbbbUGLGjxHdcBvJVbfHQu5fiqqCmFr9GatzkGVnViN3nTPT2wePwTJkztCCxjkHVHb6hzgdMWbjr1QGzhRWGZlt42zK8gGIZxx6mvgC4sBzNJvTJYQAAAABJRU5ErkJggg==);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 47px;
+    padding-top: 26px;
+}
+
+.joinnow-bg{
+    margin-top: 21px;
+    height: 28.200000000000003rem;
+    width: 100%;
+    background: url(https://www.luminartechnolab.com/static/media/pexels-kindel-media-7054785.47b27e7d.png) 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    overflow: hidden;
+    background-position: bottom;
+}
+
+footer{
+    overflow-x: hidden;
+    background-color: rgb(255, 255, 255);
+    height: 662px;
+    width: 100%;
+}
+
+.footer-brand-image
+{
+    width: 26.9rem;
+    object-fit: contain;
+    height: 5.4rem;
+    margin: 0 -2rem 1rem 0;  
+}
+
+footer .col1{
+    margin-left: 208px;
+    margin-top: 183px;
+}
+
+footer .social{
+    justify-content: right;
+    margin-left: 293px;
+}
+
+.row2 .cources{
+    margin-left: 650px;
+    margin-top: -224px;
+    font-weight: 700;
+    color: #6d1d8e;
+    font-size: 1.2rem;
+    font-family: "Mulish";
+    border-bottom: 2px solid #6d1d8e;
+    width: 333px;
+}
+
+.row2 .courcescon{
+    margin-left: 650px;
+    margin-top: 10px;
+    font-weight: 700;
+    color: #050405;
+    /* font-size: 1.2rem; */
+    font-family: "Mulish";
+}
+
+.row3 .cources{
+    margin-left: 1016px;
+    margin-top: -448px;
+    font-weight: 700;
+    color: #6d1d8e;
+    font-size: 1.2rem;
+    font-family: "Mulish";
+    border-bottom: 2px solid #6d1d8e;
+    width: 333px;
+}
+
+.row3 .courcescon{
+    margin-left: 1018px;
+    margin-top: 10px;
+    /* font-weight: 700; */
+    color: #050405;
+    /* font-size: 1.2rem; */
+    font-family: "Mulish";
+}
+
+.row4 .cources{
+    margin-left: 1435px;
+    margin-top: -289px;
+    font-weight: 700;
+    color: #6d1d8e;
+    font-size: 1.2rem;
+    font-family: "Mulish";
+    border-bottom: 2px solid #6d1d8e;
+    width: 333px;
+}
+
+.row4 .courcescon{
+    margin-left: 1433px;
+    margin-top: 10px;
+    /* font-weight: 700; */
+    color: #050405;
+    /* font-size: 1.2rem; */
+    font-family: "Mulish";
+}
+
+.last{
+    
+    background-color: #f9f9f9;
+    height: 52px;
+    text-align: center;
+    padding: 15px;
+}
+
+.last a{
+    text-decoration: none;
+}
+
+
